@@ -1,10 +1,7 @@
----
 
 # RealText
 
 **RealText** is a project designed to fine-tune and evaluate large language models (LLMs) like Llama (3.1 8b in our case) for producing more human-like text. The aim is to enhance the naturalness, linguistic richness, and semantic diversity of AI-generated content, reducing the likelihood of it being flagged as machine-generated.
-
----
 
 ## Features
 
@@ -26,4 +23,3 @@
 5. **End-to-End Workflow**:
    - Includes data preparation, model fine-tuning, evaluation, and generation.
 
----
